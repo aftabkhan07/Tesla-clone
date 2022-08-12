@@ -1,1 +1,2 @@
-# Tesla-clone
+# Tesla-clone 🔥🚀
+## Using React-Router, REDUX & Firebase
